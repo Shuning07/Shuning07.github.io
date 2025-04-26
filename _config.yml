@@ -13,7 +13,7 @@ title                    : "Shuning Shen / Site Title"
 title_separator          : "-"
 name                     : &name "Shuning Shen"
 description              : &description "personal description"
-url                      : https://Shuning07.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://shuning07.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shuning07/Shuning07.github.io"
 
