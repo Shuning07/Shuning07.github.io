@@ -1,2 +1,6 @@
-# Top navigation is intentionally left empty for now.
-main: []
+# main links
+main:
+  - title: "About"
+    url: /
+  - title: "Blog posts"
+    url: /year-archive/
