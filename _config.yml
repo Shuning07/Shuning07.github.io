@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shuning Shen"
+title                    : "Shuning (Miya) Shen"
 title_separator          : "-"
-name                     : &name "Shuning Shen"
+name                     : &name "Shuning (Miya) Shen"
 description              : &description "Economics PhD student interested in econometrics, machine learning, empirical industrial organization, and financial markets."
 url                      : https://shuning07.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "Shuning07/Shuning07.github.io"
 author:
   # Biographic information
   avatar           :
-  name             : "Shuning Shen"
+  name             : "Shuning (Miya) Shen"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Economics"
   location         :
